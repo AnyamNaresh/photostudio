@@ -1,2 +1,2 @@
-# pnr studio
+# photostudio
  
